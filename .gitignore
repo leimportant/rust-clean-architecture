@@ -1,1 +1,16 @@
+# Rust build artifacts
 /target
+
+# Cargo.lock (optional, biasanya DI-COMMIT untuk binary app)
+# Cargo.lock
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
